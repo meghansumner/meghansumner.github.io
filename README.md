@@ -19,7 +19,7 @@ I have been working as a phonetician at Stanford for 16 years, running a departm
 
 The best picture I have for what I do is:<br>
 
-![This is my area!](https://github.com/meghansumner/meghansumner.github.io/blob/main/AreaSmaller.png)<br>
+![My area](https://github.com/meghansumner/meghansumner.github.io/blob/main/AreaSmaller.png)<br>
 
 <h3>STUDENTS</h3>
 
