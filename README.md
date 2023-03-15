@@ -14,4 +14,4 @@ I have been working as a phonetician at Stanford for 16 years, running a departm
 
 The best picture I have for what I do is:<br>
 
-![Whatever area this is, is my area!](https://drive.google.com/file/d/1Q6SiASwll7E7sL9YCkepKKEWEzw1vuQA/view?usp=sharing)
+![Whatever area this is, is my area!](https://drive.google.com/file/d/1Q6SiASwll7E7sL9YCkepKKEWEzw1vuQA/view?usp=share_link)<br>
