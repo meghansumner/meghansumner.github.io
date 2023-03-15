@@ -18,4 +18,4 @@ The best picture I have for what I do is:<br>
 
 <h3>STUDENTS</h3>
 
-I am lucky enough to be working with a group of bright, creative, and forward-thinking students: @alexiah53, @yinlintan, @mariemmanue, Irene Yi, Will Clapp. 
+I am lucky enough to be working with a group of bright, creative, and forward-thinking students: [Alexia Hernandez](https://github.com/alexiah53), [Yin Lin Tan](https://yinlintan.github.io/), [Marie Tano](https://mariemmanue.github.io/), Anton de la Fuente, Irene Yi, Will Clapp. 
