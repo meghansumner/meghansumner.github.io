@@ -20,4 +20,4 @@ I have been working as a phonetician at Stanford for 16 years, running a departm
 
 <h3>STUDENTS</h3>
 
-I am lucky enough to be working with a group of bright, creative, and forward-thinking students: [Alexia Hernandez](https://github.com/alexiah53), [Yin Lin Tan](https://yinlintan.github.io/), [Marie Tano](https://mariemmanue.github.io/), Anton de la Fuente, Irene Yi, [Will Clapp] (https://willclapp.github.io/). 
+I am lucky enough to be working with a group of bright, creative, and forward-thinking students: [Alexia Hernandez](https://github.com/alexiah53), [Yin Lin Tan](https://yinlintan.github.io/), [Marie Tano](https://mariemmanue.github.io/), Anton de la Fuente, Irene Yi, [Will Clapp](https://willclapp.github.io/). 
