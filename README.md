@@ -14,4 +14,4 @@ I have been working as a phonetician at Stanford for 16 years, running a departm
 
 The best picture I have for what I do is:<br>
 
-![Whatever area this is, is my area!]("https://github.com/meghansumner/meghansumner.github.io/blob/main/Screen%20Shot%202023-03-14%20at%207.32.44%20PM.png")<br>
+![Whatever area this is, is my area!](https://github.com/meghansumner/meghansumner.github.io/blob/main/Screen%20Shot%202023-03-14%20at%207.32.44%20PM.png)<br>
