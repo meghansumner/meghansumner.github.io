@@ -2,6 +2,7 @@
 
 [Get in touch!!](mailto:sumner@stanford.edu)
 
+![](https://github.com/meghansumner/meghansumner.github.io/blob/main/AreaSmaller.png)<br>
 
 <h3>ABOUT ME</h3>
 
@@ -16,8 +17,6 @@ With all that in mind, I look at the social aspects of talkers and listeners, an
 <h3>EXPERIENCE</h3>
 
 I have been working as a phonetician at Stanford for 16 years, running a departmental experimental lab for the bulk of that, and now running a lab focused on the social aspects of speech and language processing and memory.  I collaborate with various scholars and teams to investigate human behavior using methods from behavioral, social, and neurosciences. <br>
-
-![My area](https://github.com/meghansumner/meghansumner.github.io/blob/main/AreaSmaller.png)<br>
 
 <h3>STUDENTS</h3>
 
