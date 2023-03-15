@@ -1,3 +1,8 @@
+<h1> MEGHAN SUMNER</h1><br>
+
+[Get in touch!](mailto:sumner@stanford.edu)
+
+
 <h3>ABOUT ME</h3>
 
 I am an Associate Professor in the Department of Linguistics at Stanford University. <br>
