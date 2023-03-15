@@ -7,7 +7,7 @@
 
 I am an Associate Professor in the Department of Linguistics at Stanford University. <br>
 
-I investigate how listeners hear, understand, and remember spoken language. <br> Why?  Well, because each one of us produces our own bubbles of variation when we talk, and my bubble doesn’t overlap with anyone else’s bubble.  So we have tons of variation in speech and we understand each other remarkably well, understanding spoken words coming into our ears at 5 - 7 syllables a second.  That’s nuts! <br>
+I investigate how listeners hear, understand, and remember spoken language. Why?  Well, because each one of us produces our own bubbles of variation when we talk, and my bubble doesn’t overlap with anyone else’s bubble.  So we have tons of variation in speech and we understand each other remarkably well, understanding spoken words coming into our ears at 5 - 7 syllables a second.  That’s nuts! <br>
 
 How do we do it?? My starting point is that this variation is information. From birth, we are exposed to a complex speech signal that contains packages of sound patterns that we lear to map onto both what was said and who said what (and how that person felt, where they might be from, how old they might be).  These pieces of information are part of what help us understand spoken language as quickly as we do, but the downside is that all that could lead to bias. <br> 
 
