@@ -2,7 +2,7 @@
 
 [Get in touch!!](mailto:sumner@stanford.edu)
 
-![](https://github.com/meghansumner/meghansumner.github.io/blob/main/AREAtiny.png)<br>
+![](https://github.com/meghansumner/meghansumner.github.io/blob/main/AreaSmaller.png)<br>
 
 <h3>ABOUT ME</h3>
 
